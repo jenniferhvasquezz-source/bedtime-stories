@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2aa41689-ef26-4317-b3a8-a576faabde2a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BedtimeStories.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BedtimeStories.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BedtimeStories.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,10 +16,81 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2,
-  "fromUser": false
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "jenniferhvasquezz-source"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/jenniferhvasquezz-source/bedtime-stories.git",
+    "accountId": "a5104447-f32c-4bbf-ae4a-07865123cc29"
+  }
+}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000020584645013" />
+      <entry key="MS500" value="1.0728968356117792" />
+      <entry key="S2" value="1.5196124850381736" />
+      <entry key="S5" value="1.7785741065231435" />
+      <entry key="S10" value="2.0106288649551796" />
+      <entry key="S30" value="2.946542168066192" />
+      <entry key="S60" value="5.122880366700786" />
+      <entry key="M2" value="11.671073501136114" />
+      <entry key="M5" value="28.604616860886786" />
+      <entry key="M10" value="42.54448226021857" />
+      <entry key="M15" value="49.17732858428666" />
+      <entry key="M30" value="57.21361911810749" />
+      <entry key="H1" value="61.862995943581694" />
+      <entry key="H2" value="64.36707408554955" />
+      <entry key="H4" value="65.66697403013194" />
+      <entry key="D1" value="66.77548866075396" />
+      <entry key="W1" value="66.96786910853477" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="1.586059207075224E-112" />
+      <entry key="S5" value="1.906021337409575E-45" />
+      <entry key="S10" value="4.36580042765307E-23" />
+      <entry key="S30" value="3.521177837277296E-8" />
+      <entry key="S60" value="1.8764801723645519E-4" />
+      <entry key="M2" value="0.01369846769666065" />
+      <entry key="M5" value="0.17974995733382465" />
+      <entry key="M10" value="0.423969288196474" />
+      <entry key="M15" value="0.5643600526673102" />
+      <entry key="M30" value="0.7512390116782475" />
+      <entry key="H1" value="0.8667404523144431" />
+      <entry key="H2" value="0.9309889646577153" />
+      <entry key="H4" value="0.9648776941445562" />
+      <entry key="D1" value="0.9940587316383681" />
+      <entry key="W1" value="0.9991490782514482" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="2.534907607528124E-6" />
+      <entry key="MS500" value="0.09049047826880732" />
+      <entry key="S2" value="0.8720399336245538" />
+      <entry key="S5" value="1.4347033690135307" />
+      <entry key="S10" value="1.8071726596663766" />
+      <entry key="S30" value="2.8471679828026266" />
+      <entry key="S60" value="5.051936730935525" />
+      <entry key="M2" value="11.621579611783472" />
+      <entry key="M5" value="28.730714183901906" />
+      <entry key="M10" value="42.92965900496728" />
+      <entry key="M15" value="49.71197340893402" />
+      <entry key="M30" value="57.94764417840161" />
+      <entry key="H1" value="62.720442781023614" />
+      <entry key="H2" value="65.29323062506373" />
+      <entry key="H4" value="66.62938723872843" />
+      <entry key="D1" value="67.7691297755049" />
+      <entry key="W1" value="67.96695835681295" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3LFcK3Gy3bOVoUXKPqtgkMgvgbo" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,12 +100,18 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
